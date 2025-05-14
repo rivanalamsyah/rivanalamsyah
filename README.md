@@ -65,6 +65,17 @@
   <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="googlecloud logo"  />
 </div>
 
+<br clear="both">
+
+## 🚀 Featured Projects
+
+| 🧩 Project              | 🔎 Description                                           | 🧰 Tech                        | 🔗 Links  |
+|------------------------|--------------------------------------------------------|-------------------------------|-----------|
+| 🎓 Catet Academy       | Platform kursus online akuntansi dan keuangan         | Laravel, Tailwind, Wix CMS    | 🌐 Live(https://example.com/catet-academy)   |
+| 🛡️ Auth API System     | JWT authentication, user role, permission API         | Node.js, Express, MySQL       | 💻 Repo   |
+| 🤖 JARVIS AI Assistant | Personal AI with voice, alarm, reminder, OpenAI QnA   | Python, pyttsx3, OpenAI       | 💻 Repo   |
+
+
 ###
 
 <h2 align="left">Reach Me Out!</h2>
