@@ -71,10 +71,11 @@
 
 | 🧩 Project              | 🔎 Description                                           | 🧰 Tech                        | 🔗 Links  |
 |------------------------|--------------------------------------------------------|-------------------------------|-----------|
-| 🎓 Catet Academy       | Platform kursus online akuntansi dan keuangan         | Laravel, Tailwind, Wix CMS    | 🌐 Live(https://example.com/catet-academy)   |
+| 🎓 Catet Academy       | Platform kursus online akuntansi dan keuangan         | Laravel, Tailwind, Wix CMS    | 🌐 https://catet.co.id   |
 | 🛡️ Auth API System     | JWT authentication, user role, permission API         | Node.js, Express, MySQL       | 💻 Repo   |
 | 🤖 JARVIS AI Assistant | Personal AI with voice, alarm, reminder, OpenAI QnA   | Python, pyttsx3, OpenAI       | 💻 Repo   |
 
+<br clear="both">
 
 ###
 
@@ -104,7 +105,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played" />
 </div>
 
 ###
