@@ -69,11 +69,11 @@
 
 ## 🚀 Featured Projects
 
-| 🧩 Project              | 🔎 Description                                           | 🧰 Tech                        | 🔗 Links  |
-|------------------------|--------------------------------------------------------|-------------------------------|-----------|
-| 🎓 Catet Academy       | Platform kursus online akuntansi dan keuangan         | Laravel, Tailwind, Wix CMS    | 🌐 https://catet.co.id   |
-| 🛡️ Auth API System     | JWT authentication, user role, permission API         | Node.js, Express, MySQL       | 💻 Repo   |
-| 🤖 JARVIS AI Assistant | Personal AI with voice, alarm, reminder, OpenAI QnA   | Python, pyttsx3, OpenAI       | 💻 Repo   |
+| 🧩 Project                    | 🔎 Description                                                    | 🧰 Tech                               | 🔗 Links                     |
+|-------------------------------|--------------------------------------------------------------------|---------------------------------------|-------------------------- 
+| 🎓 Catet Academy              | Platform kursus online akuntansi dan keuangan                      | Laravel, Tailwind, Wix CMS            | 🌐 https://catet.co.id        |
+| 🛡️ Auth API System            | JWT authentication, user role, permission API                      | Node.js, Express, MySQL               | 💻 Repo                       |
+| 🤖 JARVIS AI Assistant       | Personal AI with voice, alarm, reminder, OpenAI QnA                 | Python, pyttsx3, OpenAI               | 💻 Repo                       |
 
 <br clear="both">
 
