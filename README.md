@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00E7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rivan+Alamsyah!;Full-Stack+Developer+%7C+System+Engineer;Building+Scalable+and+Smart+Web+Apps+💻" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/rivanalamsyah/rivanalamsyah/main/assets/dev-coding.gif" alt="3D Developer" width="280"/>
 </p>
 
@@ -71,8 +67,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/rivanalamsyah/count.svg?" />
-  <p>✨ Profile Views ✨</p>
-</div>
