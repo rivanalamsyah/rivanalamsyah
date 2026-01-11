@@ -1,7 +1,7 @@
 # 🚀 Hallo, I'm Rivan Alamsyah!
 
 ## 🎓 About Me
-**Information Systems Graduate** – Ahmad Dahlan University (GPA 3.51/4.00)  
+**Information Systems Graduate** – Ahmad Dahlan University (GPA 3.48/4.00)  
 **Software Engineer** passionate about building scalable, maintainable systems and impactful digital products with strong interest in **system design**, **cloud architecture**, and **AI/ML integration**. Experienced in full-stack development, from prototyping to deployment and monitoring.
 
 ---
