@@ -4,11 +4,14 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rivanalamsyah&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivanalamsyah&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rivanalamsyah&theme=tokyonight&hide_border=true" height="150" />
-</div>
+<p align="center">
+  <!-- Pilih salah satu -->
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/coder.gif" alt="Coding" width="320"/>
+  <!-- atau -->
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="Programming" width="320"/>
+  <!-- atau -->
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer" width="320"/>
+</p>
 
 ---
 
