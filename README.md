@@ -63,17 +63,17 @@
 
 ### ⚙️ **Backend & Database**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,flask,fastapi,mysql,postgres,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,flask,fastapi,mysql,postgres,redis" />
 </div>
 
 ### 🛠️ **Tools & DevOps**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,aws,gcp,nginx,jenkins,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,aws,nginx,vscode" />
 </div>
 
 ### 🤖 **AI & Data Science**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" /> Scikit-learn, Pandas, NumPy, OpenCV, LangChain
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,pandas,numpy, matplotlib" />
 </div>
 
 ---
