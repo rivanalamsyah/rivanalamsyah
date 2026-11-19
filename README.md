@@ -3,12 +3,16 @@
   Repository name must match the GitHub username: rivanalamsyah
 -->
 
+<h1 align="center">
+  Hello, I'm Rivan Alamsyah
+</h1>
+
+<h3 align="center">
+  Full-Stack Web Developer | Business Systems | Cloud & AI Integration
+</h3>
+
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1220,45:172554,100:0E7490&text=Rivan%20Alamsyah%20Suherman&fontColor=F8FAFC&fontSize=38&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Business%20Systems%20%7C%20Cloud%20%26%20AI%20Integration&descAlignY=58&descSize=14&animation=fadeIn"
-    alt="Rivan Alamsyah Suherman — Full-Stack Web Developer"
-    width="100%"
-  />
+  Building scalable web applications and business solutions through modern software engineering.
 </p>
 
 <p align="center">
